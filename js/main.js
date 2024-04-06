@@ -423,6 +423,11 @@ function initializeProfileFunctionality($) {
         toggleTask: "hide_legendary",
       },
       {
+        id: "toggleHideSoulCoins",
+        classes: ["bi", "bi-coin", "text-danger"],
+        toggleTask: "hide_soul_coins",
+      },
+      {
         id: "toggleHideStory",
         classes: ["bi", "bi-book", "text-danger"],
         toggleTask: "hide_story",
