@@ -103,6 +103,10 @@ function generateTasks() {
             /::task::\s*/g,
             '<i class="bi bi-clipboard-check"></i>'
           );
+          listItemText = listItemText.replace(
+            /::soul_coin::\s*/g,
+            '<i class="bi bi-coin text-danger"></i>'
+          );
 
           // Convert markdown-style links to HTML links
           const linkPattern = /\[(.*?)\]\((.*?)\)/g;

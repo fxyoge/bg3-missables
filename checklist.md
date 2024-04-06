@@ -70,6 +70,7 @@
 # Overgrown Ruins
 - ::task:: Start quest [Explore the Ruins](https://bg3.wiki/wiki/Explore_the_Ruins)
 - ::task:: Complete quest [Explore the Ruins](https://bg3.wiki/wiki/Explore_the_Ruins)
+- ::soul_coin:: Three [Soul Coins](https://bg3.wiki/wiki/Soul_Coin) - Located at the [Dank Crypt](https://bg3.wiki/wiki/Overgrown_Ruins#Dank_Crypt)
 - ::item_rare:: [The Amulet of Lost Voices](https://bg3.wiki/wiki/The%20Amulet%20of%20Lost%20Voices) - Located at the [Dank Crypt](https://bg3.wiki/wiki/Overgrown_Ruins#Dank_Crypt)
 - ::item_uncommon:: [The Watcher's Guide](https://bg3.wiki/wiki/The%20Watcher's%20Guide) - Located at the [Dank Crypt](https://bg3.wiki/wiki/Overgrown_Ruins#Dank_Crypt)
 - ::item_ordinary:: [Book of the Dead Gods](https://bg3.wiki/wiki/Book_of_Dead_Gods) - Located at the [Dank Crypt](https://bg3.wiki/wiki/Overgrown_Ruins#Dank_Crypt)
@@ -79,6 +80,7 @@
   - ::item_story:: Find the [stolen locket](https://bg3.wiki/wiki/Brass%20Locket) to complete a [quest](https://bg3.wiki/wiki/Return_the_Locket)
 - ::task:: Minor missable events with ordinary rewards are available
   - ::missable:: Save [Nadira](https://bg3.wiki/wiki/Nadira) from a Bugbear Assasin
+    - ::soul_coin:: Receive [Soul Coin](https://bg3.wiki/wiki/Soul_Coin) from Nadira
   - ::missable:: Heal [Pandirna](https://bg3.wiki/wiki/Pandirna) from paralysis
 - ::task:: [Arron](https://bg3.wiki/wiki/Arron) offers merchant services
   - ::item_rare:: [Gloves of Missile Snaring](https://bg3.wiki/wiki/Gloves%20of%20Missile%20Snaring)
@@ -108,7 +110,7 @@
   - ::task:: [Arabella](https://bg3.wiki/wiki/Arabella) must not die
   - ::item_uncommon:: [Komira's Locket](https://bg3.wiki/wiki/Komira's%20Locket)
 - ::missable:: Complete [Investigate the Beach](https://bg3.wiki/wiki/Investigate_the_Beach) before completing [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
-- ::missable:: Compelte [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) before [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin)
+- ::missable:: Complete [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) before [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin)
   - ::item_uncommon:: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother's%20Revenge) (Kagha Dies or is Knocked Out) (#1)
   - ::item_rare:: [Pale Oak](https://bg3.wiki/wiki/Pale%20Oak) (Kagha Survives and player is Druid)
   - ::item_uncommon:: [Hellrider's Pride](https://bg3.wiki/wiki/Hellrider's%20Pride)
@@ -141,7 +143,8 @@
 - ::item_uncommon:: [Sword of Justice](https://bg3.wiki/wiki/Sword%20of%20Justice)
 - ::item_common:: [Broken Padded Armour](https://bg3.wiki/wiki/Broken%20Padded%20Armour)
 - Meet [Karlach](https://bg3.wiki/wiki/Karlach)
-- ::missable::[Deal with the paladins](https://bg3.wiki/wiki/Hunt_the_Devil) she brings up before going to Act 1.5, or deal with some permanent consequences
+- ::missable:: [Deal with the paladins](https://bg3.wiki/wiki/Hunt_the_Devil) she brings up before going to Act 1.5, or deal with some permanent consequences
+  - ::soul_coin:: [Soul Coin](https://bg3.wiki/wiki/Soul_Coin) near the paladins
 - Find the [Silver Pendant](https://bg3.wiki/wiki/Silver_Pendant) 
 - ::missable::Protect [two](https://bg3.wiki/wiki/Rugan) [people](https://bg3.wiki/wiki/Olly) being attacked by furries to start the [missing shipment](https://bg3.wiki/wiki/Find_the_Missing_Shipment) quest (if you encounter them and long rest without saving them, they'll permanently die)
 # Blighted Village
@@ -577,6 +580,7 @@
 - ::item_uncommon:: [Render of Mind and Body](https://bg3.wiki/wiki/Render%20of%20Mind%20and%20Body)
 - ::item_uncommon:: [Spineshudder Amulet](https://bg3.wiki/wiki/Spineshudder%20Amulet)
 - ::item_uncommon:: [Thunderskin Cloak](https://bg3.wiki/wiki/Thunderskin%20Cloak)
+- ::soul_coin:: Three [Soul Coins](https://bg3.wiki/wiki/Soul_Coin) from [a bugbear merchant](https://bg3.wiki/wiki/Lann_Tarv), bring [Karlach](https://bg3.wiki/wiki/Karlach) for additional dialog
 - Get some more tadpoles
   - Convince the guard on the docks to let you investigate the shipping crates
   - Destroy the barrel with the tadpoles after investigating (you can move the crate out of sight of the guards)
@@ -668,6 +672,7 @@
 - ::item_uncommon:: [Ironvine Shield](https://bg3.wiki/wiki/Ironvine%20Shield)
 - Deal with [the "coin boss"](https://bg3.wiki/wiki/Gerringothe_Thorm) 
   - Keep her from doing anything to you for [an achievement](https://bg3.wiki/wiki/Achievements)
+  - ::soul_coin:: [Soul Coin](https://bg3.wiki/wiki/Soul_Coin) behind a wall
 # BEFORE CONTINUING TO THE TEMPLE
 - Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) before entering the Temple
 # Grand Mausoleum
