@@ -15,6 +15,7 @@
   - ::item_rare:: This represents missable or limited rare items 
   - ::item_veryrare:: This represents missable or limited very rare items
   - ::item_legendary:: This represents missable or limited legendary items
+  - ::soul_coin:: This represents soul coins
   - ::item_story:: This represents missable or limited story items 
   - ::item_ordinary:: This represents missable or limited ordinary items -- ordinary items may be unique in name, but are not different from regular items
 - ::task:: Tips for obtaining equipped weapons from NPC's, a variety of these may or may not work depnding on the NPC:
