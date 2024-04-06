@@ -80,7 +80,7 @@
   - ::item_story:: Find the [stolen locket](https://bg3.wiki/wiki/Brass%20Locket) to complete a [quest](https://bg3.wiki/wiki/Return_the_Locket)
 - ::task:: Minor missable events with ordinary rewards are available
   - ::missable:: Save [Nadira](https://bg3.wiki/wiki/Nadira) from a Bugbear Assasin
-    - ::soul_coin:: Receive [Soul Coin](https://bg3.wiki/wiki/Soul_Coin) from Nadira
+    - ::soul_coin:: Receive a [Soul Coin](https://bg3.wiki/wiki/Soul_Coin) from [Nadira](https://bg3.wiki/wiki/Nadira)
   - ::missable:: Heal [Pandirna](https://bg3.wiki/wiki/Pandirna) from paralysis
 - ::task:: [Arron](https://bg3.wiki/wiki/Arron) offers merchant services
   - ::item_rare:: [Gloves of Missile Snaring](https://bg3.wiki/wiki/Gloves%20of%20Missile%20Snaring)
