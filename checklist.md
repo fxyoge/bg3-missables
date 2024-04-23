@@ -323,6 +323,8 @@
 - ::missable::Free a certain [Drow](https://bg3.wiki/wiki/Free_True_Soul_Nere) (if you long rest or fast travel he'll die)
 - ::missable::Similarly, save [some gnomes](https://bg3.wiki/wiki/Save_the_Grymforge_Gnomes) before long resting or fast travelling (although they technically may live a little longer)
   - Remember to speak to [Thulla](https://bg3.wiki/wiki/Thulla) back at the myconid area now that this is done
+- Investigate the fortress with a [stonemason](https://bg3.wiki/wiki/Kith) and possibly receive a [reward](https://bg3.wiki/wiki/Infernal_Alloy)
+- Encourage some spiders to unite under Lolth
 - Enter the [Forge](https://bg3.wiki/wiki/Adamantine_Forge) (you can find 2 mithril ores to make 2 pieces of gear)
   - When fighting [the Forge boss](https://bg3.wiki/wiki/Grym), don't use the area's huge hammer to attack, and you'll get an achievement
 - Help the [cursed monk](https://bg3.wiki/wiki/Help_the_Cursed_Monk) (you just need to pick up a certain amulet and speak to him about his goals, for now)
