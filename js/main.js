@@ -538,7 +538,7 @@ function initializeProfileFunctionality($) {
         var regexFilter = new RegExp("^playthrough_(.*)");
         var i = parseInt(this.id.match(totalNumber)[1]);
         var count = 0,
-          checkedAndHidden = 0;
+          checked = 0;
 
         //get top level section of each total header/label, and find the sibling section that has the 'li' elements
         $(element2)
@@ -547,14 +547,15 @@ function initializeProfileFunctionality($) {
           .find("> li")
           .each(function (index, checkbox) {
             checkbox = $(checkbox);
+            // console.log(checkbox.is(':hidden'), checkbox.prop('id').match(regexFilter), checkbox.find('input').prop('checked'));
             count++;
             overallCount++;
-            if (checkbox.find("input").prop("checked") || checkbox.find("label").is(":hidden")) {
-              checkedAndHidden++;
+            if (checkbox.find("input").prop("checked")) {
+              checked++;
               overallChecked++;
             }
           });
-        if (checkedAndHidden === count) {
+        if (checked === count) {
           if (typeof $("#" + type + "_nav_totals_" + i)[0] === "undefined") {
             // console.log($("#" + type + "_nav_totals_" + i));
             return;
@@ -567,7 +568,7 @@ function initializeProfileFunctionality($) {
             .addClass("done");
         } else {
           this.innerHTML = $("#" + type + "_nav_totals_" + i)[0].innerHTML =
-            checkedAndHidden + "/" + count;
+            checked + "/" + count;
           $(this).removeClass("done").addClass("in_progress");
           $($("#" + type + "_nav_totals_" + i)[0])
             .removeClass("done")
