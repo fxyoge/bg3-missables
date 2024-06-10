@@ -547,15 +547,6 @@ function initializeProfileFunctionality($) {
           .find("> li")
           .each(function (index, checkbox) {
             checkbox = $(checkbox);
-            // console.log(checkbox.is(':hidden'), checkbox.prop('id').match(regexFilter), checkbox.find('input').prop('checked'));
-            if (
-              checkbox.find("input").is(":hidden") &&
-              checkbox.find("input").prop("id").match(regexFilter) &&
-              canFilter(checkbox.find("input").closest("li"))
-            ) {
-              //this continues in a jQuery each() loop
-              return true;
-            }
             count++;
             overallCount++;
             if (checkbox.find("input").prop("checked") || checkbox.find("label").is(":hidden")) {
