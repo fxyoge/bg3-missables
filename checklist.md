@@ -277,7 +277,7 @@
 - ::item_uncommon:: [Luminous Armour](https://bg3.wiki/wiki/Luminous%20Armour)
 - ::item_uncommon:: [The Blast Pendant](https://bg3.wiki/wiki/The%20Blast%20Pendant)
 # The Festering Cove
-- ::item_rare:: [Drow Studded Leather Armour (R1)](https://bg3.wiki/wiki/Drow%20Studded%20Leather%20Armour%20(R1))
+- ::item_rare:: [Drow Studded Leather Armour (Rare)](https://bg3.wiki/wiki/Drow%20Studded%20Leather%20Armour%20(Rare))
 - ::item_uncommon:: [Helmet of Autonomy](https://bg3.wiki/wiki/Helmet%20of%20Autonomy)
 - ::item_uncommon:: [Slippery Chain Shirt](https://bg3.wiki/wiki/Slippery%20Chain%20Shirt)
 # Arcane Tower
@@ -290,7 +290,7 @@
 - ::item_uncommon:: [Skybreaker](https://bg3.wiki/wiki/Skybreaker)
 - ::item_uncommon:: [Staff of Arcane Blessing](https://bg3.wiki/wiki/Staff%20of%20Arcane%20Blessing)
 - ::item_uncommon:: [The Sparkswall](https://bg3.wiki/wiki/The%20Sparkswall)
-- ::item_common:: [Dog Collar (C2)](https://bg3.wiki/wiki/Dog%20Collar%20(C2))
+- ::item_common:: [Dog Collar](https://bg3.wiki/wiki/Dog%20Collar)
 - Use the dog collar to [achieve an unexpected result with a button](https://bg3.wiki/wiki/Dog_Collar)
   - Find and dig on a dog's grave on the Underdark Road to find the necessary item
 - Meet Bernard
@@ -304,7 +304,7 @@
 - ::item_rare:: [Cap of Wrath](https://bg3.wiki/wiki/Cap%20of%20Wrath)
 - ::item_rare:: [Fetish of Callarduran Smoothhands](https://bg3.wiki/wiki/Fetish%20of%20Callarduran%20Smoothhands)
 - ::item_rare:: [Jorgoral's Greatsword](https://bg3.wiki/wiki/Jorgoral's%20Greatsword)
-- ::item_rare:: [Sentient Amulet (R1)](https://bg3.wiki/wiki/Sentient%20Amulet%20(R1))
+- ::item_rare:: [Sentient Amulet (Rare)](https://bg3.wiki/wiki/Sentient%20Amulet%20(Rare))
 - ::item_rare:: [The Protecty Sparkswall](https://bg3.wiki/wiki/The%20Protecty%20Sparkswall)
 - ::item_rare:: [Wondrous Gloves](https://bg3.wiki/wiki/Wondrous%20Gloves)
 - ::item_uncommon:: [Armour of Uninhibited Kushigo](https://bg3.wiki/wiki/Armour%20of%20Uninhibited%20Kushigo)
@@ -639,22 +639,22 @@
 - ::item_rare:: [Surgeon's Subjugation Amulet](https://bg3.wiki/wiki/Surgeon's%20Subjugation%20Amulet)
 - ::item_rare:: [True Love's Caress](https://bg3.wiki/wiki/True%20Love's%20Caress)
 - ::item_rare:: [True Love's Embrace](https://bg3.wiki/wiki/True%20Love's%20Embrace)
-- ::item_uncommon:: [Artificial Leech (U1)](https://bg3.wiki/wiki/Artificial%20Leech%20(U1))
+- ::item_uncommon:: [Artificial Leech (+1)](https://bg3.wiki/wiki/Artificial%20Leech%20(%2B1))
 - ::item_uncommon:: [Assassin's Shortsword](https://bg3.wiki/wiki/Assassin's%20Shortsword)
 - ::item_uncommon:: [Bided Time](https://bg3.wiki/wiki/Bided%20Time)
-- ::item_uncommon:: [Bonesaw (U1)](https://bg3.wiki/wiki/Bonesaw%20(U1))
+- ::item_uncommon:: [Bonesaw (+1)](https://bg3.wiki/wiki/Bonesaw%20(%2B1))
 - ::item_uncommon:: [Eversight Ring](https://bg3.wiki/wiki/Eversight%20Ring)
 - ::item_uncommon:: [Firzu's Ring of Trading](https://bg3.wiki/wiki/Firzu's%20Ring%20of%20Trading)
 - ::item_uncommon:: [Fleshmelter Cloak](https://bg3.wiki/wiki/Fleshmelter%20Cloak)
 - ::item_uncommon:: [Lightning Jabber](https://bg3.wiki/wiki/Lightning%20Jabber)
 - ::item_uncommon:: [Protective Plate](https://bg3.wiki/wiki/Protective%20Plate)
 - ::item_uncommon:: [Shar's Temptation](https://bg3.wiki/wiki/Shar's%20Temptation)
-- ::item_uncommon:: [Syringe (U1)](https://bg3.wiki/wiki/Syringe%20(U1))
-- ::item_uncommon:: [Trepan (U1)](https://bg3.wiki/wiki/Trepan%20(U1))
+- ::item_uncommon:: [Syringe (+1)](https://bg3.wiki/wiki/Syringe%20(%2B1))
+- ::item_uncommon:: [Trepan (+1)](https://bg3.wiki/wiki/Trepan%20(%2B1))
 - ::item_uncommon:: [Watcher's Shield](https://bg3.wiki/wiki/Watcher's%20Shield)
-- ::item_common:: [Bonesaw (C1)](https://bg3.wiki/wiki/Bonesaw%20(C1))
-- ::item_common:: [Syringe (C1)](https://bg3.wiki/wiki/Syringe%20(C1))
-- ::item_common:: [Trepan (C1)](https://bg3.wiki/wiki/Trepan%20(C1))
+- ::item_common:: [Bonesaw](https://bg3.wiki/wiki/Bonesaw)
+- ::item_common:: [Syringe](https://bg3.wiki/wiki/Syringe)
+- ::item_common:: [Trepan](https://bg3.wiki/wiki/Trepan)
 - Find [the lost tiefling child's parents](https://bg3.wiki/wiki/Find_Arabella%27s_Parents)
 - Kill [a surgeon with questionable ethics](https://bg3.wiki/wiki/Malus_Thorm) and take his instrument 
   - Keep him from stabbing you for an achievement
@@ -688,13 +688,13 @@
 - ::item_rare:: [Boots of Brilliance](https://bg3.wiki/wiki/Boots%20of%20Brilliance)
 - ::item_rare:: [Circle of Bones](https://bg3.wiki/wiki/Circle%20of%20Bones)
 - ::item_rare:: [Dark Justiciar Boots](https://bg3.wiki/wiki/Dark%20Justiciar%20Boots)
-- ::item_rare:: [Dark Justiciar Gauntlets (R1)](https://bg3.wiki/wiki/Dark%20Justiciar%20Gauntlets%20(R1))
-- ::item_rare:: [Dark Justiciar Half-Plate (R1)](https://bg3.wiki/wiki/Dark%20Justiciar%20Half-Plate%20(R1))
+- ::item_rare:: [Dark Justiciar Gauntlets (Rare)](https://bg3.wiki/wiki/Dark%20Justiciar%20Gauntlets%20(Rare))
+- ::item_rare:: [Dark Justiciar Half-Plate (Rare)](https://bg3.wiki/wiki/Dark%20Justiciar%20Half-Plate%20(Rare))
 - ::item_rare:: [Justiciar's Greatshield](https://bg3.wiki/wiki/Justiciar's%20Greatshield)
 - ::item_rare:: [Least Expected](https://bg3.wiki/wiki/Least%20Expected)
 - ::item_rare:: [Spear of Night](https://bg3.wiki/wiki/Spear%20of%20Night)
 - ::item_uncommon:: [Callous Glow Ring](https://bg3.wiki/wiki/Callous%20Glow%20Ring)
-- ::item_uncommon:: [Dark Justiciar Gauntlets (U1)](https://bg3.wiki/wiki/Dark%20Justiciar%20Gauntlets%20(U1))
+- ::item_uncommon:: [Dark Justiciar Gauntlets (Uncommon)](https://bg3.wiki/wiki/Dark%20Justiciar%20Gauntlets%20(Uncommon))
 - ::item_common:: [Shortsword (Yurgir)](https://bg3.wiki/wiki/Shortsword%20(Yurgir))
 - Check out the path to the right of the entryway statue for treasure "hidden in darkness"
 - Kill [Balthazar](https://bg3.wiki/wiki/Balthazar)
@@ -709,7 +709,7 @@
   - [Faith-Leap Trial](https://bg3.wiki/wiki/Gauntlet_of_Shar#Faith-Step_Trial)
 # Shadowfell
 - ::item_legendary:: [Shar's Spear of Evening](https://bg3.wiki/wiki/Shar's%20Spear%20of%20Evening)
-- ::item_veryrare:: [Dark Justiciar Half-Plate (VR1)](https://bg3.wiki/wiki/Dark%20Justiciar%20Half-Plate%20(VR1))
+- ::item_veryrare:: [Dark Justiciar Half-Plate (Very Rare)](https://bg3.wiki/wiki/Dark%20Justiciar%20Half-Plate%20(Very%20Rare))
 - ::item_rare:: [Moonlight Glaive](https://bg3.wiki/wiki/Moonlight%20Glaive)
 # Moonrise Towers (Revisited)
 - Visit [the Inn](https://bg3.wiki/wiki/Last_Light_Inn) and gather forces
@@ -901,11 +901,11 @@
 - ::item_veryrare:: [Robe of Supreme Defences](https://bg3.wiki/wiki/Robe%20of%20Supreme%20Defences) (Special Stock)  Rivington
 - ::item_veryrare:: [Robe of the Weave](https://bg3.wiki/wiki/Robe%20of%20the%20Weave)  Sorcerous Sundries
 - ::item_veryrare:: [Sarevok's Horned Helmet](https://bg3.wiki/wiki/Sarevok's%20Horned%20Helmet)  Murder Tribunal
-- ::item_veryrare:: [Sentient Amulet (VR1)](https://bg3.wiki/wiki/Sentient%20Amulet%20(VR1))  Open Hand Temple
+- ::item_veryrare:: [Sentient Amulet (Very Rare)](https://bg3.wiki/wiki/Sentient%20Amulet%20(Very%20Rare))  Open Hand Temple
 - ::item_veryrare:: [Sethan](https://bg3.wiki/wiki/Sethan) (Special Stock)  Rivington
 - ::item_veryrare:: [Shade-Slayer Cloak](https://bg3.wiki/wiki/Shade-Slayer%20Cloak)  Guildhall
 - ::item_veryrare:: [Shapeshifter Hat](https://bg3.wiki/wiki/Shapeshifter%20Hat)  Devil's Fee
-- ::item_veryrare:: [Shield (VR1)](https://bg3.wiki/wiki/Shield%20(VR1))  House of Hope
+- ::item_veryrare:: [Shield (Very Rare)](https://bg3.wiki/wiki/Shield%20(Very%20Rare))  House of Hope
 - ::item_veryrare:: [Shield of the Undevout](https://bg3.wiki/wiki/Shield%20of%20the%20Undevout)  Murder Tribunal
 - ::item_veryrare:: [Spellmight Gloves](https://bg3.wiki/wiki/Spellmight%20Gloves)  Circus of the Last Days
 - ::item_veryrare:: [Staff of Cherished Necromancy](https://bg3.wiki/wiki/Staff%20of%20Cherished%20Necromancy)  Philgrave's Mansion
@@ -1069,9 +1069,9 @@
 - ::item_uncommon:: [Very Heavy Greataxe](https://bg3.wiki/wiki/Very%20Heavy%20Greataxe)
 - ::item_uncommon:: [Vision of the Absolute](https://bg3.wiki/wiki/Vision%20of%20the%20Absolute)
 - ::item_uncommon:: [Winter's Clutches](https://bg3.wiki/wiki/Winter's%20Clutches)
-- ::item_common:: [Artificial Leech (C1)](https://bg3.wiki/wiki/Artificial%20Leech%20(C1))
+- ::item_common:: [Artificial Leech](https://bg3.wiki/wiki/Artificial%20Leech)
 - ::item_common:: [Gnarled Tree Branch](https://bg3.wiki/wiki/Gnarled%20Tree%20Branch)
-- ::item_common:: [Greatclub (C1)](https://bg3.wiki/wiki/Greatclub%20(C1))
+- ::item_common:: [Greatclub](https://bg3.wiki/wiki/Greatclub)
 - ::item_common:: [Makeshift Bow](https://bg3.wiki/wiki/Makeshift%20Bow)
 - ::item_common:: [Metallic Gloves](https://bg3.wiki/wiki/Metallic%20Gloves)
 - ::item_common:: [Practice Sword](https://bg3.wiki/wiki/Practice%20Sword)
