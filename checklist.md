@@ -325,6 +325,13 @@
   - Remember to speak to [Thulla](https://bg3.wiki/wiki/Thulla) back at the myconid area now that this is done
 - Investigate the fortress with a [stonemason](https://bg3.wiki/wiki/Kith) and possibly receive a [reward](https://bg3.wiki/wiki/Infernal_Alloy)
 - Encourage some spiders to unite under Lolth
+- Retrieve the six [moulds](https://bg3.wiki/wiki/Mould)
+  - ::item_common:: [Longword Mould](https://bg3.wiki/wiki/Longsword_Mould)
+  - ::item_common:: [Mace Mould](https://bg3.wiki/wiki/Mace_Mould)
+  - ::item_common:: [Scale Mail Mould](https://bg3.wiki/wiki/Scale_Mail_Mould)
+  - ::item_common:: [Scimitar Mould](https://bg3.wiki/wiki/Scimitar_Mould)
+  - ::item_common:: [Shield Mould](https://bg3.wiki/wiki/Shield_Mould)
+  - ::item_common:: [Splint Mould](https://bg3.wiki/wiki/Splint_Mould)
 - Enter the [Forge](https://bg3.wiki/wiki/Adamantine_Forge) (you can find 2 mithril ores to make 2 pieces of gear)
   - When fighting [the Forge boss](https://bg3.wiki/wiki/Grym), don't use the area's huge hammer to attack, and you'll get an achievement
 - Help the [cursed monk](https://bg3.wiki/wiki/Help_the_Cursed_Monk) (you just need to pick up a certain amulet and speak to him about his goals, for now)
