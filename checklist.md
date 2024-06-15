@@ -236,42 +236,52 @@
 - Check out the [fish people's cove](https://bg3.wiki/wiki/The_Festering_Cove)  
 - Interact with [the petrified humanoid statues and the aberration](https://bg3.wiki/wiki/Underdark#Petrified_Battlefield) that appears
 - Help [the mushroom leader](https://bg3.wiki/wiki/Spaw)
-  - ::missable::[Cure the sick humanoid](https://bg3.wiki/wiki/Cure_the_Poisoned_Gnome) before taking 3 long rests
-- Help [a friend that looks like a foe](https://bg3.wiki/wiki/Help_Omeluum_Investigate_the_Parasite) 
-- Save [a witless gnome in dire straits](https://bg3.wiki/wiki/Find_the_Mushroom_Picker) 
-  - Choose what to do with [the reward from the gnome](https://bg3.wiki/wiki/Noblestalk) 
+  - ::missable:: [Cure the sick humanoid](https://bg3.wiki/wiki/Cure_the_Poisoned_Gnome) before taking 3 long rests
+  - ::item_rare:: [Boots of Speed](https://bg3.wiki/wiki/Boots%20of%20Speed)
+  - ::item_rare:: [Shadow of Menzoberranzan](https://bg3.wiki/wiki/Shadow%20of%20Menzoberranzan)
+- Help [a friend that looks like a foe](https://bg3.wiki/wiki/Help_Omeluum_Investigate_the_Parasite)
+  - ::item_rare:: [Ring of Mind-Shielding](https://bg3.wiki/wiki/Ring%20of%20Mind-Shielding)
+- Save [a witless gnome in dire straits](https://bg3.wiki/wiki/Find_the_Mushroom_Picker)
+  - Choose what to do with [the reward from the gnome](https://bg3.wiki/wiki/Noblestalk)
+  - ::item_rare:: [Gloves of Uninhibited Kushigo](https://bg3.wiki/wiki/Gloves%20of%20Uninhibited%20Kushigo)
 - Go and [defeat the duergars](https://bg3.wiki/wiki/Defeat_the_Duergar_Intruders)
 - ["Help" Glut](https://bg3.wiki/wiki/Avenge_Glut%27s_Circle), but you probably want to betray him
+  - ::item_rare:: [Champion's Chain](https://bg3.wiki/wiki/Champion's%20Chain) if you choose to help him
 - Eliminate Nere (which brings you to Grymforge) -- if you've come across the trapped gnomes, don't rest, or this quest will be lost
+  - ::item_rare:: [Envoy's Amulet](https://bg3.wiki/wiki/Envoy's%20Amulet)
 - Get your sussur bark here to finish the weapon in Blighted Village
 - Don't forget to gather three components that are needed to craft a [frosty staff](https://bg3.wiki/wiki/Mourning_Frost)
 - Defeat the drow that handles hooked horror monsters
-- Fight [a land shark](https://baldursgate3.wiki.fextralife.com/Bulette)
+- Fight [a land shark](https://bg3.wiki/wiki/Bulette)
 - If you find a small grave site in a clearing, don't touch it until you read a certain note regarding a canine companion in the Arcane Tower
   - Once you've done that, grab the collar from within and use it with the Arcane Tower button
 # Myconid Colony
-- ::item_rare:: [Boots of Genial Striding](https://bg3.wiki/wiki/Boots%20of%20Genial%20Striding)
-- ::item_rare:: [Boots of Speed](https://bg3.wiki/wiki/Boots%20of%20Speed)
-- ::item_rare:: [Champion's Chain](https://bg3.wiki/wiki/Champion's%20Chain)
-- ::item_rare:: [Circlet of Blasting](https://bg3.wiki/wiki/Circlet%20of%20Blasting)
-- ::item_rare:: [Creation's Echo](https://bg3.wiki/wiki/Creation's%20Echo)
-- ::item_rare:: [Envoy's Amulet](https://bg3.wiki/wiki/Envoy's%20Amulet)
-- ::item_rare:: [Gloves of Uninhibited Kushigo](https://bg3.wiki/wiki/Gloves%20of%20Uninhibited%20Kushigo)
-- ::item_rare:: [Ring of Mind-Shielding](https://bg3.wiki/wiki/Ring%20of%20Mind-Shielding)
-- ::item_rare:: [Shadow of Menzoberranzan](https://bg3.wiki/wiki/Shadow%20of%20Menzoberranzan)
-- ::item_rare:: [The Baneful](https://bg3.wiki/wiki/The%20Baneful)
-- ::item_uncommon:: [Boots of Stormy Clamour](https://bg3.wiki/wiki/Boots%20of%20Stormy%20Clamour)
-- ::item_uncommon:: [Caustic Band](https://bg3.wiki/wiki/Caustic%20Band)
-- ::item_uncommon:: [Cinder Shoes](https://bg3.wiki/wiki/Cinder%20Shoes)
-- ::item_uncommon:: [Herbalist's Gloves](https://bg3.wiki/wiki/Herbalist's%20Gloves)
-- ::item_uncommon:: [Melf's First Staff](https://bg3.wiki/wiki/Melf's%20First%20Staff)
-- ::item_uncommon:: [Pearl of Power Amulet](https://bg3.wiki/wiki/Pearl%20of%20Power%20Amulet)
-- ::item_uncommon:: [Psychic Spark](https://bg3.wiki/wiki/Psychic%20Spark)
-- ::item_uncommon:: [Ring of Jumping](https://bg3.wiki/wiki/Ring%20of%20Jumping)
-- ::item_uncommon:: [Ring of Salving](https://bg3.wiki/wiki/Ring%20of%20Salving)
-- ::item_uncommon:: [Sunwalker's Gift](https://bg3.wiki/wiki/Sunwalker's%20Gift)
-- ::item_uncommon:: [The Lifebringer](https://bg3.wiki/wiki/The%20Lifebringer)
-- ::item_uncommon:: [The Shadespell Circlet](https://bg3.wiki/wiki/The%20Shadespell%20Circlet)
+- ::task:: [Blurg](https://bg3.wiki/wiki/Blurg) offers merchant services
+  - ::item_rare:: [Boots of Genial Striding](https://bg3.wiki/wiki/Boots%20of%20Genial%20Striding)
+  - ::item_rare:: [Circlet of Blasting](https://bg3.wiki/wiki/Circlet%20of%20Blasting)
+  - ::item_rare:: [The Baneful](https://bg3.wiki/wiki/The%20Baneful)
+  - ::item_uncommon:: [Cinder Shoes](https://bg3.wiki/wiki/Cinder%20Shoes)
+  - ::item_uncommon:: [Melf's First Staff](https://bg3.wiki/wiki/Melf's%20First%20Staff)
+  - ::item_uncommon:: [Psychic Spark](https://bg3.wiki/wiki/Psychic%20Spark)
+  - ::item_uncommon:: [Sunwalker's Gift](https://bg3.wiki/wiki/Sunwalker's%20Gift)
+  - ::item_uncommon:: [The Lifebringer](https://bg3.wiki/wiki/The%20Lifebringer)
+- ::task:: [Derryth Bonecloak](https://bg3.wiki/wiki/Derryth_Bonecloak) offers merchant services
+  - ::item_rare:: [Amulet of Restoration](https://bg3.wiki/wiki/Amulet_of_Restoration)
+  - ::item_rare:: [Corrosive Flail](https://bg3.wiki/wiki/Corrosive_Flail)
+  - ::item_uncommon:: [Caustic Band](https://bg3.wiki/wiki/Caustic%20Band)
+  - ::item_uncommon:: [Gloves of Hail of Thorns](https://bg3.wiki/wiki/Gloves_of_Hail_of_Thorns)
+  - ::item_uncommon:: [Hand Crossbow +1](https://bg3.wiki/wiki/Hand_Crossbow_%2B1)
+  - ::item_uncommon:: [Heavy Crossbow +1](https://bg3.wiki/wiki/Heavy_Crossbow_%2B1)
+  - ::item_uncommon:: [Herbalist's Gloves](https://bg3.wiki/wiki/Herbalist's%20Gloves)
+  - ::item_uncommon:: [Ring of Jumping](https://bg3.wiki/wiki/Ring%20of%20Jumping)
+  - ::item_uncommon:: [Shortbow +1](https://bg3.wiki/wiki/Shortbow_%2B1)
+- ::task:: [Omeluum](https://bg3.wiki/wiki/Omeluum) offers merchant services
+  - ::item_rare:: [Creation's Echo](https://bg3.wiki/wiki/Creation's%20Echo)
+  - ::item_uncommon:: [Amulet of Misty Step](https://bg3.wiki/wiki/Amulet_of_Misty_Step)
+  - ::item_uncommon:: [Boots of Stormy Clamour](https://bg3.wiki/wiki/Boots%20of%20Stormy%20Clamour)
+  - ::item_uncommon:: [Pearl of Power Amulet](https://bg3.wiki/wiki/Pearl%20of%20Power%20Amulet)
+  - ::item_uncommon:: [Ring of Salving](https://bg3.wiki/wiki/Ring%20of%20Salving)
+  - ::item_uncommon:: [The Shadespell Circlet](https://bg3.wiki/wiki/The%20Shadespell%20Circlet)
 # Selûnite Outpost
 - ::item_uncommon:: [Helmet of Smiting](https://bg3.wiki/wiki/Helmet%20of%20Smiting)
 - ::item_uncommon:: [Luminous Armour](https://bg3.wiki/wiki/Luminous%20Armour)
@@ -385,7 +395,12 @@
 - ::missable:: Complete [Save the Goblin Sazza](https://bg3.wiki/wiki/Save_the_Goblin_Sazza) after [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) and before [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins)
   - ::task:: If you plan on recruiting Minthara or obtaining the achievement for keeping Sazza alive, work this into the next task.
   - ::item_uncommon:: [Assassin's Touch](https://bg3.wiki/wiki/Assassin's%20Touch)
-- ::task:: Compelte [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins)
+- ::task:: Explore the [Defiled Temple](https://bg3.wiki/wiki/Defiled_Temple) past [Priestess Gut's](https://bg3.wiki/wiki/Gut) quarters
+  - ::task:: Sneak by (or kill) the [guard](https://bg3.wiki/wiki/Polma)
+  - ::task:: Solve the Selunite puzzle
+  - ::item_uncommon:: [Amulet of Misty Step](https://bg3.wiki/wiki/Amulet_of_Misty_Step)
+  - ::item_common:: [Selunite Journal](https://bg3.wiki/wiki/Sel%C3%BBnite_Journal)
+- ::task:: Complete [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins)
   - ::task:: If you plan on recruiting Minthara or obtaining the achievement for keeping Sazza alive do the following below
   - ::task:: Remember: do not long rest until told to do so
   - ::task:: Defeat [Priestess Gut](https://bg3.wiki/wiki/Gut) and do not get caught
