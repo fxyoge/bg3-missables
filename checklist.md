@@ -306,7 +306,7 @@
 - Meet Bernard
 - Find a [perfectly normal chest](https://bg3.wiki/wiki/Chest_of_the_Mundane) filled with perfectly normal items.
 - Don't forget to read all notes and be a good soul 
-- There is a gith disk, don't forget to interact with it after picking it up, and show it to Lae'zel 
+- There is a [gith disk](https://bg3.wiki/wiki/Discover_the_History_of_Prince_Orpheus#The_Arcane_Tower), don't forget to interact with it after picking it up, and show it to Lae'zel 
 - Use the [Stool of Mysterious Strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength) to get a one-of-a-kind item
 # Grymforge
 - ::item_veryrare:: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating%20Night%20Walkers)
@@ -486,7 +486,7 @@
 - ::item_uncommon:: [Witchbreaker](https://bg3.wiki/wiki/Witchbreaker)
 - ::item_common:: [Plate Armour](https://bg3.wiki/wiki/Plate%20Armour)
 - ::item_common:: [Splint Armour](https://bg3.wiki/wiki/Splint%20Armour)
-- Save the student in the Classroom and get [the second githyanki disc](https://bg3.wiki/wiki/Discover_the_history_of_Prince_Orpheus#Moonrise_Towers) from him, then talk to Lae'zel
+- Save the student in the Classroom and get [the second githyanki disc](https://bg3.wiki/wiki/Discover_the_history_of_Prince_Orpheus#The_Githyanki_Crèche) from him, then talk to Lae'zel
 - Gith Egg quest
 - Visit the infirmary and get ready to try [the machine](https://bg3.wiki/wiki/Zaith%27isk)
   - Grab 3 more parasites from this room
@@ -627,7 +627,7 @@
 - Visit [the kitchen](https://bg3.wiki/wiki/Moonrise_Towers#Kitchen)
   - Convince [the gnolls](https://bg3.wiki/wiki/%27Barnabus%27) to work with you
   - You can optionally harvest [their captor's](https://bg3.wiki/wiki/Linsella) parasite (in the kitchen)
-- Find the third Orpheus disc in Balthazar's tower and talk to Lae'zel to hear her thoughts
+- Find the [third Orpheus disc](https://bg3.wiki/wiki/Discover_the_History_of_Prince_Orpheus#Moonrise_Towers) in Balthazar's tower and talk to Lae'zel to hear her thoughts
 - Get [a dark lantern](https://bg3.wiki/wiki/Shadow_Lantern) from [an enemy leader's chambers](https://bg3.wiki/wiki/Moonrise_Towers#Balthazar's_room), and have a wizard in your party activate it for a permanent summon
 - Investigate the daughter's room to find [something that isn't as it appears](https://bg3.wiki/wiki/Moonrise_Towers#Isobel's_room)
 - [Save the gnomes](https://bg3.wiki/wiki/Rescue_Wulbren) (talk to them before freeing them)
