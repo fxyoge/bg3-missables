@@ -183,6 +183,8 @@
 # Owlbear Nest
 - ::item_uncommon:: [Moondrop Pendant](https://bg3.wiki/wiki/Moondrop%20Pendant)
 - ::item_uncommon:: [The Oak Father's Embrace](https://bg3.wiki/wiki/The%20Oak%20Father's%20Embrace)
+- ::item_common:: [Owlbear Egg](https://bg3.wiki/wiki/Owlbear_Egg)
+  - ::missable:: The egg counts as camp supplies, so be careful not to eat it
 - ::missable::[Fight some owlbears](https://bg3.wiki/wiki/Owlbear_Nest) and leave a scent to follow for the baby (do this now, or an owlbear will die after a long rest)
 - Check out [the shrine](https://bg3.wiki/wiki/Owlbear_Nest#Sel%C3%BBne_Shrine) and complete a shrine puzzle to unlock a chest
 # Waukeen's Rest
@@ -457,37 +459,37 @@
 - Undead attackers on the road
   - Use speak with dead on corpses surrounding them
 - Talk to a [blue Jay friend](https://bg3.wiki/wiki/Reclaim_the_Blue_Jay%27s_Nest) and eagles' nest
+- Talk to an [adventurer](https://bg3.wiki/wiki/Esther) about ["acquiring" an egg](https://bg3.wiki/wiki/Steal_a_Githyanki_Egg)
 - Speak with [an ancient mage](https://bg3.wiki/wiki/Elminster#Act_Two) at entrance to the Shadow-Cursed Lands
 - Don't continue to Moonrise Towers until you've completed the Grymforge (Underdark) content
 # Rosymorn Monastery
 - ::item_uncommon:: [Ceremonial Mace](https://bg3.wiki/wiki/Ceremonial%20Mace)
 - ::item_uncommon:: [Holy Lance Helm](https://bg3.wiki/wiki/Holy%20Lance%20Helm)
-- Solve a puzzle that involves the [blood of a god](https://bg3.wiki/wiki/Find_the_Blood_of_Lathander)  
+- Solve a puzzle that involves the [blood of a god](https://bg3.wiki/wiki/Find_the_Blood_of_Lathander)
 # Crèche Y'llek
 - ::item_legendary:: [The Blood of Lathander](https://bg3.wiki/wiki/The%20Blood%20of%20Lathander)
-- ::item_veryrare:: [Gloves of Dexterity](https://bg3.wiki/wiki/Gloves%20of%20Dexterity)
-- ::item_veryrare:: [Knife of the Undermountain King](https://bg3.wiki/wiki/Knife%20of%20the%20Undermountain%20King)
 - ::item_rare:: [Amulet of Branding](https://bg3.wiki/wiki/Amulet%20of%20Branding)
 - ::item_rare:: [Circlet of Psionic Revenge](https://bg3.wiki/wiki/Circlet%20of%20Psionic%20Revenge)
-- ::item_rare:: [Daredevil Gloves](https://bg3.wiki/wiki/Daredevil%20Gloves)
-- ::item_rare:: [Defender Flail](https://bg3.wiki/wiki/Defender%20Flail)
 - ::item_rare:: [Diadem of Arcane Synergy](https://bg3.wiki/wiki/Diadem%20of%20Arcane%20Synergy)
-- ::item_rare:: [Larethian's Wrath](https://bg3.wiki/wiki/Larethian's%20Wrath)
 - ::item_rare:: [Ring of Arcane Synergy](https://bg3.wiki/wiki/Ring%20of%20Arcane%20Synergy)
 - ::item_rare:: [Soulbreaker Greatsword](https://bg3.wiki/wiki/Soulbreaker%20Greatsword)
-- ::item_rare:: [Unseen Menace](https://bg3.wiki/wiki/Unseen%20Menace)
-- ::item_rare:: [Vital Conduit Boots](https://bg3.wiki/wiki/Vital%20Conduit%20Boots)
 - ::item_uncommon:: [Aberration Hunters' Amulet](https://bg3.wiki/wiki/Aberration%20Hunters'%20Amulet)
 - ::item_uncommon:: [Crossbow of Arcane Force](https://bg3.wiki/wiki/Crossbow%20of%20Arcane%20Force)
 - ::item_uncommon:: [Gloves of Belligerent Skies](https://bg3.wiki/wiki/Gloves%20of%20Belligerent%20Skies)
 - ::item_uncommon:: [Hoarfrost Boots](https://bg3.wiki/wiki/Hoarfrost%20Boots)
 - ::item_uncommon:: [Strange Conduit Ring](https://bg3.wiki/wiki/Strange%20Conduit%20Ring)
 - ::item_uncommon:: [The Skinburster](https://bg3.wiki/wiki/The%20Skinburster)
-- ::item_uncommon:: [Witchbreaker](https://bg3.wiki/wiki/Witchbreaker)
 - ::item_common:: [Plate Armour](https://bg3.wiki/wiki/Plate%20Armour)
 - ::item_common:: [Splint Armour](https://bg3.wiki/wiki/Splint%20Armour)
-- Save the student in the Classroom and get [the second githyanki disc](https://bg3.wiki/wiki/Discover_the_history_of_Prince_Orpheus#The_Githyanki_Crèche) from him, then talk to Lae'zel
-- Gith Egg quest
+- ::task:: [A'jak'nir Jeera](https://bg3.wiki/wiki/Jeera) offers merchant services
+  - ::item_veryrare:: [Gloves of Dexterity](https://bg3.wiki/wiki/Gloves%20of%20Dexterity)
+  - ::item_veryrare:: [Knife of the Undermountain King](https://bg3.wiki/wiki/Knife%20of%20the%20Undermountain%20King)
+  - ::item_rare:: [Daredevil Gloves](https://bg3.wiki/wiki/Daredevil%20Gloves)
+  - ::item_rare:: [Defender Flail](https://bg3.wiki/wiki/Defender%20Flail)
+  - ::item_rare:: [Larethian's Wrath](https://bg3.wiki/wiki/Larethian's%20Wrath)
+  - ::item_rare:: [Unseen Menace](https://bg3.wiki/wiki/Unseen%20Menace)
+  - ::item_rare:: [Vital Conduit Boots](https://bg3.wiki/wiki/Vital%20Conduit%20Boots)
+  - ::item_uncommon:: [Witchbreaker](https://bg3.wiki/wiki/Witchbreaker)
 - Visit the infirmary and get ready to try [the machine](https://bg3.wiki/wiki/Zaith%27isk)
   - Grab 3 more parasites from this room
   - Get [a permanent buff](https://bg3.wiki/wiki/Awakened) by sitting in a chair
@@ -495,8 +497,10 @@
 - Perform an [Astral Plane](https://bg3.wiki/wiki/Astral_Plane) visit, and then talk to Lae'zel
   - Talk to [the visitor](https://bg3.wiki/wiki/Voss) upon a long rest
 # Crèche Y'llek (Hatchery)
+- ::item_story:: [Githyanki Egg](https://bg3.wiki/wiki/Githyanki_Egg)
 - ::item_uncommon:: [Varsh Ko'kuu's Boots](https://bg3.wiki/wiki/Varsh%20Ko'kuu's%20Boots)
 # Crèche Y'llek (Infirmary)
+- Save the student in the Classroom and get [the second githyanki disc](https://bg3.wiki/wiki/Discover_the_history_of_Prince_Orpheus#The_Githyanki_Crèche) from him, then talk to Lae'zel
 - ::item_uncommon:: [Ring of Elemental Infusion](https://bg3.wiki/wiki/Ring%20of%20Elemental%20Infusion)
 # BEFORE CONTINUING TO ACT 2
 - Let a certain Dandy [shove an icepick in your eye](https://bg3.wiki/wiki/Volo%27s_Ersatz_Eye) for a permanent upgrade (unconfirmed that this has to be before Act 2)
