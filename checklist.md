@@ -463,24 +463,13 @@
 - Speak with [an ancient mage](https://bg3.wiki/wiki/Elminster#Act_Two) at entrance to the Shadow-Cursed Lands
 - Don't continue to Moonrise Towers until you've completed the Grymforge (Underdark) content
 # Rosymorn Monastery
+- ::item_uncommon:: [Ceremonial Battleaxe](https://bg3.wiki/wiki/Ceremonial_Battleaxe)
+- ::item_uncommon:: [Ceremonial Longsword](https://bg3.wiki/wiki/Ceremonial_Longsword)
 - ::item_uncommon:: [Ceremonial Mace](https://bg3.wiki/wiki/Ceremonial%20Mace)
+- ::item_uncommon:: [Ceremonial Warhammer](https://bg3.wiki/wiki/Ceremonial_Warhammer)
 - ::item_uncommon:: [Holy Lance Helm](https://bg3.wiki/wiki/Holy%20Lance%20Helm)
 - Solve a puzzle that involves the [blood of a god](https://bg3.wiki/wiki/Find_the_Blood_of_Lathander)
 # Crèche Y'llek
-- ::item_legendary:: [The Blood of Lathander](https://bg3.wiki/wiki/The%20Blood%20of%20Lathander)
-- ::item_rare:: [Amulet of Branding](https://bg3.wiki/wiki/Amulet%20of%20Branding)
-- ::item_rare:: [Circlet of Psionic Revenge](https://bg3.wiki/wiki/Circlet%20of%20Psionic%20Revenge)
-- ::item_rare:: [Diadem of Arcane Synergy](https://bg3.wiki/wiki/Diadem%20of%20Arcane%20Synergy)
-- ::item_rare:: [Ring of Arcane Synergy](https://bg3.wiki/wiki/Ring%20of%20Arcane%20Synergy)
-- ::item_rare:: [Soulbreaker Greatsword](https://bg3.wiki/wiki/Soulbreaker%20Greatsword)
-- ::item_uncommon:: [Aberration Hunters' Amulet](https://bg3.wiki/wiki/Aberration%20Hunters'%20Amulet)
-- ::item_uncommon:: [Crossbow of Arcane Force](https://bg3.wiki/wiki/Crossbow%20of%20Arcane%20Force)
-- ::item_uncommon:: [Gloves of Belligerent Skies](https://bg3.wiki/wiki/Gloves%20of%20Belligerent%20Skies)
-- ::item_uncommon:: [Hoarfrost Boots](https://bg3.wiki/wiki/Hoarfrost%20Boots)
-- ::item_uncommon:: [Strange Conduit Ring](https://bg3.wiki/wiki/Strange%20Conduit%20Ring)
-- ::item_uncommon:: [The Skinburster](https://bg3.wiki/wiki/The%20Skinburster)
-- ::item_common:: [Plate Armour](https://bg3.wiki/wiki/Plate%20Armour)
-- ::item_common:: [Splint Armour](https://bg3.wiki/wiki/Splint%20Armour)
 - ::task:: [A'jak'nir Jeera](https://bg3.wiki/wiki/Jeera) offers merchant services
   - ::item_veryrare:: [Gloves of Dexterity](https://bg3.wiki/wiki/Gloves%20of%20Dexterity)
   - ::item_veryrare:: [Knife of the Undermountain King](https://bg3.wiki/wiki/Knife%20of%20the%20Undermountain%20King)
@@ -490,18 +479,36 @@
   - ::item_rare:: [Unseen Menace](https://bg3.wiki/wiki/Unseen%20Menace)
   - ::item_rare:: [Vital Conduit Boots](https://bg3.wiki/wiki/Vital%20Conduit%20Boots)
   - ::item_uncommon:: [Witchbreaker](https://bg3.wiki/wiki/Witchbreaker)
+- Deface a [certain regal painting](https://bg3.wiki/wiki/Portrait_of_Vlaakith)
+- Save the student in the [Classroom](https://bg3.wiki/wiki/Cr%C3%A8che_Y'llek#Classroom) and get [the second githyanki disc](https://bg3.wiki/wiki/Discover_the_history_of_Prince_Orpheus#The_Githyanki_Crèche) from him, then talk to Lae'zel
 - Visit the infirmary and get ready to try [the machine](https://bg3.wiki/wiki/Zaith%27isk)
   - Grab 3 more parasites from this room
   - Get [a permanent buff](https://bg3.wiki/wiki/Awakened) by sitting in a chair
+- Visit the [Hatchery](https://bg3.wiki/wiki/Cr%C3%A8che_Y'llek#Hatchery)
+  - ::item_story:: [Githyanki Egg](https://bg3.wiki/wiki/Githyanki_Egg)
+  - ::item_uncommon:: [Varsh Ko'kuu's Boots](https://bg3.wiki/wiki/Varsh%20Ko'kuu's%20Boots)
 - Have a conversation with [the inquisitor](https://bg3.wiki/wiki/W%27wargaz)
 - Perform an [Astral Plane](https://bg3.wiki/wiki/Astral_Plane) visit, and then talk to Lae'zel
   - Talk to [the visitor](https://bg3.wiki/wiki/Voss) upon a long rest
-# Crèche Y'llek (Hatchery)
-- ::item_story:: [Githyanki Egg](https://bg3.wiki/wiki/Githyanki_Egg)
-- ::item_uncommon:: [Varsh Ko'kuu's Boots](https://bg3.wiki/wiki/Varsh%20Ko'kuu's%20Boots)
-# Crèche Y'llek (Infirmary)
-- Save the student in the Classroom and get [the second githyanki disc](https://bg3.wiki/wiki/Discover_the_history_of_Prince_Orpheus#The_Githyanki_Crèche) from him, then talk to Lae'zel
-- ::item_uncommon:: [Ring of Elemental Infusion](https://bg3.wiki/wiki/Ring%20of%20Elemental%20Infusion)
+- Solve the statue puzzle
+  - Ensure that you have tied up any loose ends in the Crèche before proceeding
+  - ::item_legendary:: [The Blood of Lathander](https://bg3.wiki/wiki/The%20Blood%20of%20Lathander)
+- ::task:: The following items can be found around the area
+  - ::item_rare:: [Circlet of Psionic Revenge](https://bg3.wiki/wiki/Circlet%20of%20Psionic%20Revenge)
+  - ::item_uncommon:: [Gloves of Belligerent Skies](https://bg3.wiki/wiki/Gloves%20of%20Belligerent%20Skies)
+  - ::item_uncommon:: [Hoarfrost Boots](https://bg3.wiki/wiki/Hoarfrost%20Boots)
+  - ::item_uncommon:: [Necklace of Elemental Augmentation](https://bg3.wiki/wiki/Necklace_of_Elemental_Augmentation)
+  - ::item_uncommon:: [Strange Conduit Ring](https://bg3.wiki/wiki/Strange%20Conduit%20Ring)
+  - ::item_uncommon:: [The Skinburster](https://bg3.wiki/wiki/The%20Skinburster)
+- ::task:: The following items can be obtained from killing NPC's
+  - ::item_veryrare:: [Potion of Angelic Slumber](https://bg3.wiki/wiki/Potion_of_Angelic_Slumber)
+  - ::item_rare:: [Amulet of Branding](https://bg3.wiki/wiki/Amulet%20of%20Branding)
+  - ::item_rare:: [Diadem of Arcane Synergy](https://bg3.wiki/wiki/Diadem%20of%20Arcane%20Synergy)
+  - ::item_rare:: [Ring of Arcane Synergy](https://bg3.wiki/wiki/Ring%20of%20Arcane%20Synergy)
+  - ::item_rare:: [Soulbreaker Greatsword](https://bg3.wiki/wiki/Soulbreaker%20Greatsword)
+  - ::item_uncommon:: [Aberration Hunters' Amulet](https://bg3.wiki/wiki/Aberration_Hunters%27_Amulet)
+  - ::item_uncommon:: [Crossbow of Arcane Force](https://bg3.wiki/wiki/Crossbow%20of%20Arcane%20Force)
+  - ::item_uncommon:: [Ring of Elemental Infusion](https://bg3.wiki/wiki/Ring%20of%20Elemental%20Infusion)
 # BEFORE CONTINUING TO ACT 2
 - Let a certain Dandy [shove an icepick in your eye](https://bg3.wiki/wiki/Volo%27s_Ersatz_Eye) for a permanent upgrade (unconfirmed that this has to be before Act 2)
 - Deluxe edition -- portraits: optionally find Fane in The Ruins, Lohse near Nettie in The Emerald Grove, Red Prince in the Waukeen's Rest, Ifan in the Blighted Village, Sebille in the Hag's house, and finally Beast in The Arcane Tower 
