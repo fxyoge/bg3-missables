@@ -449,13 +449,15 @@
 # BEFORE CONTINUING TO ACT 1.5
 - Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) before going to Act 1.5
 # Rosymorn Monastery Trail
-- ::item_rare:: [Cacophony](https://bg3.wiki/wiki/Cacophony)
-- ::item_rare:: [Gloves of Cinder and Sizzle](https://bg3.wiki/wiki/Gloves%20of%20Cinder%20and%20Sizzle)
-- ::item_rare:: [Periapt of Wound Closure](https://bg3.wiki/wiki/Periapt%20of%20Wound%20Closure)
-- ::item_rare:: [The Graceful Cloth](https://bg3.wiki/wiki/The%20Graceful%20Cloth) (#1)
-- ::item_uncommon:: [Boots of Elemental Momentum](https://bg3.wiki/wiki/Boots%20of%20Elemental%20Momentum)
-- ::item_uncommon:: [Gloves of Baneful Striking](https://bg3.wiki/wiki/Gloves%20of%20Baneful%20Striking)
-- ::item_uncommon:: [Hoppy](https://bg3.wiki/wiki/Hoppy)
+- ::task:: [Lady Esther](https://bg3.wiki/wiki/Esther) offers merchant services
+  - ::item_rare:: [Cacophony](https://bg3.wiki/wiki/Cacophony)
+  - ::item_rare:: [Gloves of Cinder and Sizzle](https://bg3.wiki/wiki/Gloves%20of%20Cinder%20and%20Sizzle)
+  - ::item_rare:: [Periapt of Wound Closure](https://bg3.wiki/wiki/Periapt%20of%20Wound%20Closure)
+  - ::item_rare:: [The Graceful Cloth](https://bg3.wiki/wiki/The%20Graceful%20Cloth) (#1)
+  - ::item_uncommon:: [Boots of Elemental Momentum](https://bg3.wiki/wiki/Boots%20of%20Elemental%20Momentum)
+  - ::item_uncommon:: [Gloves of Baneful Striking](https://bg3.wiki/wiki/Gloves%20of%20Baneful%20Striking)
+  - ::item_uncommon:: [Hoppy](https://bg3.wiki/wiki/Hoppy)
+  - ::item_uncommon:: [Winter's Clutches](https://bg3.wiki/wiki/Winter's%20Clutches)
 - Undead attackers on the road
   - Use speak with dead on corpses surrounding them
 - Talk to a [blue Jay friend](https://bg3.wiki/wiki/Reclaim_the_Blue_Jay%27s_Nest) and eagles' nest
@@ -1101,7 +1103,6 @@
 - ::item_uncommon:: [The Whispering Promise](https://bg3.wiki/wiki/The%20Whispering%20Promise)
 - ::item_uncommon:: [Very Heavy Greataxe](https://bg3.wiki/wiki/Very%20Heavy%20Greataxe)
 - ::item_uncommon:: [Vision of the Absolute](https://bg3.wiki/wiki/Vision%20of%20the%20Absolute)
-- ::item_uncommon:: [Winter's Clutches](https://bg3.wiki/wiki/Winter's%20Clutches)
 - ::item_common:: [Artificial Leech](https://bg3.wiki/wiki/Artificial%20Leech)
 - ::item_common:: [Gnarled Tree Branch](https://bg3.wiki/wiki/Gnarled%20Tree%20Branch)
 - ::item_common:: [Greatclub](https://bg3.wiki/wiki/Greatclub)
