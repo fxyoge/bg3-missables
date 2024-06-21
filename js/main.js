@@ -109,7 +109,7 @@ function generateTasks() {
           );
 
           // Convert markdown-style links to HTML links
-          const linkPattern = /\[([^\]]+)\]\((https?:\/\/[^\s]+)\)/g;
+          const linkPattern = /\[([^\]]+)\]\((https?:\/\/[^\s\)]+(\([^\)]+\))?)\)/g;
           listItemText = listItemText.replace(
             linkPattern,
             '<a href="$2" target="_blank">$1</a>'
