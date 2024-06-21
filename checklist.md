@@ -548,21 +548,21 @@
 # Last Light Inn
 - ::item_story:: Second chance to get a [Moonlantern](https://bg3.wiki/wiki/Moonlantern).
 - ::item_veryrare:: [Potent Robe](https://bg3.wiki/wiki/Potent%20Robe)
-- ::item_rare:: [Acrobat Shoes](https://bg3.wiki/wiki/Acrobat%20Shoes)
-- ::item_rare:: [Evasive Shoes](https://bg3.wiki/wiki/Evasive%20Shoes)
 - ::item_rare:: [Flawed Helldusk Armour](https://bg3.wiki/wiki/Flawed%20Helldusk%20Armour)
 - ::item_rare:: [Flawed Helldusk Gloves](https://bg3.wiki/wiki/Flawed%20Helldusk%20Gloves)
 - ::item_rare:: [Flawed Helldusk Helmet](https://bg3.wiki/wiki/Flawed%20Helldusk%20Helmet)
-- ::item_rare:: [Gloves of the Automaton](https://bg3.wiki/wiki/Gloves%20of%20the%20Automaton)
 - ::item_rare:: [Penumbral Armour](https://bg3.wiki/wiki/Penumbral%20Armour)
 - ::item_rare:: [Rippling Force Mail](https://bg3.wiki/wiki/Rippling%20Force%20Mail)
 - ::item_rare:: [Shield of Scorching Reprisal](https://bg3.wiki/wiki/Shield%20of%20Scorching%20Reprisal)
 - ::item_rare:: [Shifting Corpus Ring](https://bg3.wiki/wiki/Shifting%20Corpus%20Ring)
-- ::item_uncommon:: [Cloak of Cunning Brume](https://bg3.wiki/wiki/Cloak%20of%20Cunning%20Brume)
-- ::item_uncommon:: [Coruscation Ring](https://bg3.wiki/wiki/Coruscation%20Ring)
-- ::item_uncommon:: [Covert Cowl](https://bg3.wiki/wiki/Covert%20Cowl)
-- ::item_uncommon:: [Ring of Geniality](https://bg3.wiki/wiki/Ring%20of%20Geniality)
 - ::item_uncommon:: [Snowburst Ring](https://bg3.wiki/wiki/Snowburst%20Ring)
+- ::task:: [Mattis](https://bg3.wiki/wiki/Mattis) offers merchant services
+  - ::item_rare:: [Evasive Shoes](https://bg3.wiki/wiki/Evasive%20Shoes)
+  - ::item_uncommon:: [Cloak of Cunning Brume](https://bg3.wiki/wiki/Cloak%20of%20Cunning%20Brume)
+- ::task:: [Barcus Wroot](https://bg3.wiki/wiki/Barcus_Wroot) offers merchant services
+  - ::item_rare:: [Acrobat Shoes](https://bg3.wiki/wiki/Acrobat%20Shoes)
+  - ::item_rare:: [Gloves of the Automaton](https://bg3.wiki/wiki/Gloves%20of%20the%20Automaton)
+  - ::item_uncommon:: [Ring of Geniality](https://bg3.wiki/wiki/Ring%20of%20Geniality)
 - ::task:: [Dammon](https://bg3.wiki/wiki/Dammon) offers merchant services
   - ::item_veryrare:: [Sword of Life Stealing](https://bg3.wiki/wiki/Sword%20of%20Life%20Stealing)
   - ::item_rare:: [Charge-Bound Warhammer](https://bg3.wiki/wiki/Charge-Bound%20Warhammer)
@@ -598,6 +598,9 @@
   - Visit camp to find out more about [the boy](https://bg3.wiki/wiki/Thaniel), post-attack
 - Give [Dammon](https://bg3.wiki/wiki/Dammon) what [he needs](https://bg3.wiki/wiki/Infernal_Iron) to help [Karlach](https://bg3.wiki/wiki/Karlach), two times
 - Have the [blacksmith](https://bg3.wiki/wiki/Dammon) make something out of some [masks](https://bg3.wiki/wiki/Devilfoil%20Mask)
+- ::task:: Explore the [cellar](https://bg3.wiki/wiki/Last_Light_Inn_-_Cellar)
+  - ::item_uncommon:: [Coruscation Ring](https://bg3.wiki/wiki/Coruscation%20Ring)
+  - ::item_uncommon:: [Covert Cowl](https://bg3.wiki/wiki/Covert%20Cowl)
 # Moonrise Towers
 - ::item_story:: Final chance to get a [Moonlantern](https://bg3.wiki/wiki/Moonlantern).
 - ::item_veryrare:: [Circlet of Hunting](https://bg3.wiki/wiki/Circlet%20of%20Hunting)
