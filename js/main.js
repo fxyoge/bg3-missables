@@ -110,10 +110,10 @@ function generateTasks() {
 
           // Convert markdown-style links to HTML links
           // ([Whispering Depths](https://bg3.wiki/wiki/Whispering_Depths))
-          const wrappedLinkPattern = /\(\[([^\]]+)\]\((https?:\/\/[^\s]+)\)/g;
+          const wrappedLinkPattern = /\(\[([^\]]+)\]\((https?:\/\/[^\s]+)\)\)/g;
           listItemText = listItemText.replace(
             wrappedLinkPattern,
-            '<a href="$2" target="_blank">$1</a>'
+            '(<a href="$2" target="_blank">$1</a>)'
           );
           const remainingLinksPattern = /\[([^\]]+)\]\((https?:\/\/[^\s]+)\)/g;
           listItemText = listItemText.replace(
