@@ -602,41 +602,32 @@
   - ::item_uncommon:: [Coruscation Ring](https://bg3.wiki/wiki/Coruscation%20Ring)
   - ::item_uncommon:: [Covert Cowl](https://bg3.wiki/wiki/Covert%20Cowl)
 # Moonrise Towers
-- ::item_story:: Final chance to get a [Moonlantern](https://bg3.wiki/wiki/Moonlantern).
-- ::item_veryrare:: [Circlet of Hunting](https://bg3.wiki/wiki/Circlet%20of%20Hunting)
-- ::item_veryrare:: [Spellcrux Amulet](https://bg3.wiki/wiki/Spellcrux%20Amulet)
-- ::item_rare:: [Absolute's Protector](https://bg3.wiki/wiki/Absolute's%20Protector)
-- ::item_rare:: [Bigboy's Chew Toy](https://bg3.wiki/wiki/Bigboy's%20Chew%20Toy)
-- ::item_rare:: [Boots of Arcane Bolstering](https://bg3.wiki/wiki/Boots%20of%20Arcane%20Bolstering)
-- ::item_rare:: [Derivation Cloak](https://bg3.wiki/wiki/Derivation%20Cloak)
-- ::item_rare:: [Dwarven Splintmail](https://bg3.wiki/wiki/Dwarven%20Splintmail)
-- ::item_rare:: [Enraging Heart Garb](https://bg3.wiki/wiki/Enraging%20Heart%20Garb)
-- ::item_rare:: [Fistbreaker Helm](https://bg3.wiki/wiki/Fistbreaker%20Helm)
-- ::item_rare:: [Gauntlets of Surging Accuracy](https://bg3.wiki/wiki/Gauntlets%20of%20Surging%20Accuracy)
-- ::item_rare:: [Gloves of The Duellist](https://bg3.wiki/wiki/Gloves%20of%20The%20Duellist)
-- ::item_rare:: [Ring of Exalted Marrow](https://bg3.wiki/wiki/Ring%20of%20Exalted%20Marrow)
-- ::item_rare:: [Ring of Free Action](https://bg3.wiki/wiki/Ring%20of%20Free%20Action)
-- ::item_rare:: [Risky Ring](https://bg3.wiki/wiki/Risky%20Ring)
-- ::item_rare:: [Robe of Exquisite Focus](https://bg3.wiki/wiki/Robe%20of%20Exquisite%20Focus)
-- ::item_rare:: [Sentinel Shield](https://bg3.wiki/wiki/Sentinel%20Shield)
-- ::item_rare:: [Shadow Lantern](https://bg3.wiki/wiki/Shadow%20Lantern)
-- ::item_rare:: [Slicing Shortsword](https://bg3.wiki/wiki/Slicing%20Shortsword)
-- ::item_uncommon:: [Argument Solver](https://bg3.wiki/wiki/Argument%20Solver)
-- ::item_uncommon:: [Browbeaten Circlet](https://bg3.wiki/wiki/Browbeaten%20Circlet)
-- ::item_uncommon:: [Cloak of Elemental Absorption](https://bg3.wiki/wiki/Cloak%20of%20Elemental%20Absorption)
-- ::item_uncommon:: [Hat of Storm Scion's Power](https://bg3.wiki/wiki/Hat%20of%20Storm%20Scion's%20Power)
-- ::item_uncommon:: [Render of Mind and Body](https://bg3.wiki/wiki/Render%20of%20Mind%20and%20Body)
-- ::item_uncommon:: [Spineshudder Amulet](https://bg3.wiki/wiki/Spineshudder%20Amulet)
-- ::item_uncommon:: [Thunderskin Cloak](https://bg3.wiki/wiki/Thunderskin%20Cloak)
+- ::item_story:: Final chance to get a [Moonlantern](https://bg3.wiki/wiki/Moonlantern)
 - ::soul_coin:: Three [Soul Coins](https://bg3.wiki/wiki/Soul_Coin) from [a bugbear merchant](https://bg3.wiki/wiki/Lann_Tarv), bring [Karlach](https://bg3.wiki/wiki/Karlach) for additional dialog
 - Get some more tadpoles
   - Convince the guard on the docks to let you investigate the shipping crates
   - Destroy the barrel with the tadpoles after investigating (you can move the crate out of sight of the guards)
-  - Gather 2 more tadpoles 
-- ::task:: [Araj Oblodra](https://bg3.wiki/wiki/Araj_Oblodra) offers merchant sevices
-  - ::item_rare:: [The Graceful Cloth](https://bg3.wiki/wiki/The%20Graceful%20Cloth) (#2)
-- Get [a specially-brewed potion](https://bg3.wiki/wiki/Araj_Oblodra) from your blood (there are truly no downsides to this event)
+  - Gather 2 more tadpoles
+- Get [a specially-brewed potion](https://bg3.wiki/wiki/Araj_Oblodra#Blood-draw_elixirs) from your blood (there are truly no downsides to this event)
   - Do the same for each companion you'd like a free potion for
+- ::task:: [Araj Oblodra](https://bg3.wiki/wiki/Araj_Oblodra) offers merchant services
+  - ::item_veryrare:: [Circlet of Hunting](https://bg3.wiki/wiki/Circlet%20of%20Hunting)
+  - ::item_rare:: [Boots of Arcane Bolstering](https://bg3.wiki/wiki/Boots%20of%20Arcane%20Bolstering)
+  - ::item_rare:: [Ring of Free Action](https://bg3.wiki/wiki/Ring%20of%20Free%20Action)
+  - ::item_rare:: [Risky Ring](https://bg3.wiki/wiki/Risky%20Ring)
+  - ::item_rare:: [Robe of Exquisite Focus](https://bg3.wiki/wiki/Robe%20of%20Exquisite%20Focus)
+  - ::item_uncommon:: [Hat of Storm Scion's Power](https://bg3.wiki/wiki/Hat%20of%20Storm%20Scion's%20Power)
+  - ::item_uncommon:: [Thunderskin Cloak](https://bg3.wiki/wiki/Thunderskin%20Cloak)
+- ::task:: [Lann Tarv](https://bg3.wiki/wiki/Lann_Tarv) offers merchant services
+  - ::item_rare:: [Bigboy's Chew Toy](https://bg3.wiki/wiki/Bigboy's%20Chew%20Toy)
+  - ::item_rare:: [Dwarven Splintmail](https://bg3.wiki/wiki/Dwarven%20Splintmail)
+  - ::item_rare:: [Enraging Heart Garb](https://bg3.wiki/wiki/Enraging%20Heart%20Garb)
+  - ::item_rare:: [Fistbreaker Helm](https://bg3.wiki/wiki/Fistbreaker%20Helm)
+  - ::item_rare:: [Gauntlets of Surging Accuracy](https://bg3.wiki/wiki/Gauntlets%20of%20Surging%20Accuracy)
+  - ::item_rare:: [Gloves of The Duellist](https://bg3.wiki/wiki/Gloves%20of%20The%20Duellist)
+  - ::item_rare:: [Sentinel Shield](https://bg3.wiki/wiki/Sentinel%20Shield)
+  - ::item_rare:: [Slicing Shortsword](https://bg3.wiki/wiki/Slicing%20Shortsword)
+  - ::item_uncommon:: [Render of Mind and Body](https://bg3.wiki/wiki/Render%20of%20Mind%20and%20Body)
 - ::task:: [Roah Moonglow](https://bg3.wiki/wiki/Roah_Moonglow) offers merchant services
   - ::item_veryrare:: [Sharpened Snare Cuirass](https://bg3.wiki/wiki/Sharpened%20Snare%20Cuirass)
   - ::item_rare:: [Armour of Devotion](https://bg3.wiki/wiki/Armour%20of%20Devotion)
@@ -657,6 +648,16 @@
   - ::item_uncommon:: [Wulbren's Hammer](https://bg3.wiki/wiki/Wulbren's%20Hammer), found in the same area, can be given to [Wulbren Bongle](https://bg3.wiki/wiki/Wulbren_Bongle).  It is possible to purchase this item back from him anytime (confirmed Act 3).
 - [Save the tieflings](https://bg3.wiki/wiki/Rescue_the_Tieflings) 
   - Talk to [the aspiring Tiefling wizard](https://bg3.wiki/wiki/Rolan)
+- ::task:: The following items can be found around the area
+  - ::item_rare:: [Derivation Cloak](https://bg3.wiki/wiki/Derivation%20Cloak)
+  - ::item_rare:: [Ring of Exalted Marrow](https://bg3.wiki/wiki/Ring%20of%20Exalted%20Marrow)
+  - ::item_uncommon:: [Browbeaten Circlet](https://bg3.wiki/wiki/Browbeaten%20Circlet)
+  - ::item_uncommon:: [Cloak of Elemental Absorption](https://bg3.wiki/wiki/Cloak%20of%20Elemental%20Absorption)
+- ::task:: The following items can be obtained from killing NPC's
+  - ::item_veryrare:: [Spellcrux Amulet](https://bg3.wiki/wiki/Spellcrux%20Amulet)
+  - ::item_rare:: [Absolute's Protector](https://bg3.wiki/wiki/Absolute's%20Protector)
+  - ::item_uncommon:: [Argument Solver](https://bg3.wiki/wiki/Argument%20Solver)
+  - ::item_uncommon:: [Spineshudder Amulet](https://bg3.wiki/wiki/Spineshudder%20Amulet)
 # Oubliette
 - Enter [the area under the prisons](https://bg3.wiki/wiki/Oubliette)
 - Get the parasite from a Zealot corpse in the main area you drop into
